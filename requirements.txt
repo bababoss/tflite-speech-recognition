@@ -1,0 +1,7 @@
+numpy
+librosa
+matplotlib
+tensorflow_gpu
+python_speech_features
+playsound
+#nimba==0.48
